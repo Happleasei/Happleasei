@@ -2,7 +2,7 @@
 
 ⚡ Fun fact: ...
 
-| [网页云](https://music.163.com/#/user/home?id=393170136) |[力扣](https://leetcode-cn.com/u/wanghai_nihao/|
+| [网页云](https://music.163.com/#/user/home?id=393170136) | [力扣](https://leetcode-cn.com/u/wanghai_nihao/)|
 
 ### Languages and Tools:
 
