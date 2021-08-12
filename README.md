@@ -26,7 +26,7 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></code>
 </p>
 
 ### Github State
