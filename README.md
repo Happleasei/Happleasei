@@ -4,5 +4,5 @@
 
 > It is not funny anymore!!! 
 
-> please visit [my website](njxai.top)
+> please visit [my website](https://njxai.top)
 
