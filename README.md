@@ -6,5 +6,5 @@
 ```
 > It is not funny anymore!!! 
 
-> Please visit [My Website](https://njxai.top)
+> [My Website](https://njxai.top)
 
