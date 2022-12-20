@@ -8,5 +8,5 @@
 <img width="500" src="https://github.com/Happleasei/Happleasei/blob/main/github-snake.svg" />
 </p>
 
-> [My Website](https://njxai.top)
+> [NJXAI](https://njxai.top)
 
