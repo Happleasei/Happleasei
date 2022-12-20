@@ -4,7 +4,9 @@
 ```
 我现居于杭州，从事算法工程师的工作。
 ```
-> It is not funny anymore!!! 
+<p align="center">
+<img width="500" src="https://github.com/Happleasei/Happleasei/blob/main/github-snake.svg" />
+</p>
 
 > [My Website](https://njxai.top)
 
