@@ -5,11 +5,12 @@
 我现居于杭州，从事算法工程师的工作。
 ```
 <p align="center">
-<img width="500" src="https://github.com/Happleasei/Happleasei/blob/main/gif3.gif" />
-</p>
-<p align="center">
 <img width="500" src="https://github.com/Happleasei/Happleasei/blob/main/github-snake.svg" />
 </p>
+<p align="center">
+<img width="500" src="https://github.com/Happleasei/Happleasei/blob/main/gif3.gif" />
+</p>
+
 
 > [NJXAI](https://njxai.top)
 
